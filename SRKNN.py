@@ -1,4 +1,3 @@
-
 from scipy import misc
 from scipy import ndimage
 import matplotlib.pyplot as plt
